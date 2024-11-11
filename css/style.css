@@ -1,0 +1,26 @@
+.navbar-dark{
+    background-color: aliceblue;
+    box-shadow: 1px 1px 2px 1px lightgray;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: green !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: green;
+}
+.navbar {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
+.navbar-nav .nav-link {
+    color: #333;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navbar-brand img {
+    width: 150px;
+}
